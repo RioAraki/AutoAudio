@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# intellij
+.idea/
+
+# book specific
+钢铁是怎样炼成的/
